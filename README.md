@@ -17,6 +17,6 @@ On the challenging mit-Indoor dataset, our method compares
 nicely to other s-o-a component-based classification methods.
 
 ## my goal 
-beat the accuracy that specified in the 'Overview' part using transfer learnin CNN model
+beating the accuracy that specified in the 'Overview' part using transfer learnin CNN model
 
 this dataset paper and dataset can be find link : https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/
